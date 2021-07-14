@@ -1,4 +1,4 @@
-# Trilha-de-Estat-stica-para-Data-Science
+# Trilha de Estatística para Data Science
 
 Fiz uma trilha sugerindo estes conteúdos, em ordem sequencial e sugeri diversos materiais gratuitos para estudo. Além disso, inseri alguns sites oficiais para obter dados em diversas áreas temáticas (finanças, economia, saúde, educação, etc).  <br>
 
